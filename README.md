@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./YSyntax_Banner.png" alt="YSyntax Banner" width="100%" />
+</p>
 # 👋 Merhaba, ben Yusuf Sinan!
 
 ### 🚀 YSyntax | Software Developer
